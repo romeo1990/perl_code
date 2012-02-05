@@ -1,3 +1,5 @@
+#!/usr/bin/perl
+
 # subroutines(子程序)
 
 # use strict;
